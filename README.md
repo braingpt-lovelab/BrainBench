@@ -16,6 +16,10 @@ For step-by-step guidance, please refer to README in each dedicated repo.
 git clone git@github.com:braingpt-lovelab/BrainBench.git --recursive
 ```
 
+### Hardware requirements:
+- Nvidia A100 (80GB) * 4
+- 2TB storage
+
 ### Attribution
 ```
 @misc{luo2024large,
