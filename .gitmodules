@@ -1,0 +1,9 @@
+[submodule "experiments"]
+	path = experiments
+	url = git@github.com:braingpt-lovelab/brainbench_experiments.git
+[submodule "finetuning"]
+	path = finetuning
+	url = git@github.com:braingpt-lovelab/brainbench_finetuning.git
+[submodule "plotting"]
+	path = plotting
+	url = git@github.com:braingpt-lovelab/brainbench_results.git
