@@ -1,10 +1,7 @@
-# BrainBench
+# Large language models surpass human experts in predicting neuroscience results
 ![brainbench](https://github.com/braingpt-lovelab/BrainBench/assets/32969920/6e3a5a93-1f26-41bf-b93e-995fd8bd42fd)
 
-Umbrella repo for all repos associated with paper https://arxiv.org/abs/2403.03230
-
-BrainBench is a big project containing multiple moving pieces from the dataset itself to model evaluation results. While the code base will likely be refactored in the future, for now it is divided into 3
-parts, each of which is a tracked repo. 
+BrainBench's code base is currently divided into 3 parts, each of which is a tracked repo.
 
 ### Repos:
 - `experiments`: repo hosting all analyses scripts that can be used to obtain raw results (pre-plotting) to replicate the findings from scratch.
