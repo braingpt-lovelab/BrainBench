@@ -21,12 +21,18 @@ git clone git@github.com:braingpt-lovelab/BrainBench.git --recursive
 
 ### Attribution
 ```
-@misc{luo2024large,
-      title={Large language models surpass human experts in predicting neuroscience results}, 
-      author={Xiaoliang Luo and Akilles Rechardt and Guangzhi Sun and Kevin K. Nejad and Felipe Yáñez and Bati Yilmaz and Kangjoo Lee and Alexandra O. Cohen and Valentina Borghesani and Anton Pashkov and Daniele Marinazzo and Jonathan Nicholas and Alessandro Salatiello and Ilia Sucholutsky and Pasquale Minervini and Sepehr Razavi and Roberta Rocca and Elkhan Yusifov and Tereza Okalova and Nianlong Gu and Martin Ferianc and Mikail Khona and Kaustubh R. Patil and Pui-Shee Lee and Rui Mata and Nicholas E. Myers and Jennifer K Bizley and Sebastian Musslick and Isil Poyraz Bilgin and Guiomar Niso and Justin M. Ales and Michael Gaebler and N Apurva Ratan Murty and Chloe M. Hall and Jessica Dafflon and Sherry Dongqi Bao and Bradley C. Love},
-      year={2024},
-      eprint={2403.03230},
-      archivePrefix={arXiv},
-      primaryClass={q-bio.NC}
+@article{luo_large_2024,
+	title = {Large language models surpass human experts in predicting neuroscience results},
+	issn = {2397-3374},
+	url = {https://www.nature.com/articles/s41562-024-02046-9},
+	doi = {10.1038/s41562-024-02046-9},
+	abstract = {Abstract
+            Scientific discoveries often hinge on synthesizing decades of research, a task that potentially outstrips human information processing capacities. Large language models (LLMs) offer a solution. LLMs trained on the vast scientific literature could potentially integrate noisy yet interrelated findings to forecast novel results better than human experts. Here, to evaluate this possibility, we created BrainBench, a forward-looking benchmark for predicting neuroscience results. We find that LLMs surpass experts in predicting experimental outcomes. BrainGPT, an LLM we tuned on the neuroscience literature, performed better yet. Like human experts, when LLMs indicated high confidence in their predictions, their responses were more likely to be correct, which presages a future where LLMs assist humans in making discoveries. Our approach is not neuroscience specific and is transferable to other knowledge-intensive endeavours.},
+	language = {en},
+	urldate = {2024-11-29},
+	journal = {Nature Human Behaviour},
+	author = {Luo, Xiaoliang and Rechardt, Akilles and Sun, Guangzhi and Nejad, Kevin K. and Yáñez, Felipe and Yilmaz, Bati and Lee, Kangjoo and Cohen, Alexandra O. and Borghesani, Valentina and Pashkov, Anton and Marinazzo, Daniele and Nicholas, Jonathan and Salatiello, Alessandro and Sucholutsky, Ilia and Minervini, Pasquale and Razavi, Sepehr and Rocca, Roberta and Yusifov, Elkhan and Okalova, Tereza and Gu, Nianlong and Ferianc, Martin and Khona, Mikail and Patil, Kaustubh R. and Lee, Pui-Shee and Mata, Rui and Myers, Nicholas E. and Bizley, Jennifer K. and Musslick, Sebastian and Bilgin, Isil Poyraz and Niso, Guiomar and Ales, Justin M. and Gaebler, Michael and Ratan Murty, N. Apurva and Loued-Khenissi, Leyla and Behler, Anna and Hall, Chloe M. and Dafflon, Jessica and Bao, Sherry Dongqi and Love, Bradley C.},
+	month = nov,
+	year = {2024},
 }
 ```
